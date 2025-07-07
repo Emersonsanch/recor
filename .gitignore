@@ -1,0 +1,23 @@
+﻿# Node
+node_modules/
+npm-debug.log*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Visual Studio Code / JetBrains
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+.cache/
